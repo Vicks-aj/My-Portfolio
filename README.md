@@ -65,7 +65,7 @@ A modern responsive portfolio website for Victor Awojobi, showcasing skills, edu
 
 1. Clone repository:
    
-   git clone https://github.com/yourusername/portfolio-website.git
+   https://github.com/Vicks-aj/My-Portfolio.git
 
 2. Navigate to project directory
 
