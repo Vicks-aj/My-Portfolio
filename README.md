@@ -21,15 +21,15 @@ A modern responsive portfolio website for Victor Awojobi, showcasing skills, edu
  
   * Downloadable CV
 
-Modern Styling:
+* Modern Styling:
 
-    CSS variables for easy theming
+* CSS variables for easy theming
 
-    Flexbox/Grid layouts
+    * Flexbox/Grid layouts
 
-    Box shadows and gradients
+    * Box shadows and gradients
 
-    Custom form styling
+    * Custom form styling
 
 # Technologies Used 🛠️
 HTML5: Semantic markup structure
