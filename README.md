@@ -23,7 +23,7 @@ A modern responsive portfolio website for Victor Awojobi, showcasing skills, edu
 
 * Modern Styling:
 
-* CSS variables for easy theming
+    * CSS variables for easy theming
 
     * Flexbox/Grid layouts
 
@@ -32,41 +32,43 @@ A modern responsive portfolio website for Victor Awojobi, showcasing skills, edu
     * Custom form styling
 
 # Technologies Used 🛠️
-HTML5: Semantic markup structure
 
-CSS3:
+* HTML5: Semantic markup structure
 
-CSS Custom Properties (variables)
+* CSS3:
 
-Flexbox/Grid layouts
+  * CSS Custom Properties (variables)
 
-Media queries for responsiveness
+  * Flexbox/Grid layouts
 
-Advanced selectors and pseudo-elements
+  * Media queries for responsiveness
 
-Design:
+  * Advanced selectors and pseudo-elements
 
-Modern minimalist aesthetic
+* Design:
 
-Custom card designs
+  * Modern minimalist aesthetic
 
-Animated section headers
+  * Custom card designs
 
-Getting Started 🚀
-Requirements
-Modern web browser
+  * Animated section headers
 
-Basic understanding of HTML/CSS
+# Getting Started 🚀
 
-Installation
-Clone repository:
+* Requirements
 
-bash
-Copy
+  * Modern web browser
+
+  * Basic understanding of HTML/CSS
+
+* Installation
+
+1. Clone repository:
+   
 git clone https://github.com/yourusername/portfolio-website.git
 Navigate to project directory
 
-Open index.html in your browser
+2. Open index.html in your browser
 
 File Structure
 Copy
