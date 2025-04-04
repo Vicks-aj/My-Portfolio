@@ -11,7 +11,7 @@ Interactive Elements: Hover animations and smooth transitions
 
 Multi-Section Layout:
 
-    Skills showcase with logo displays
+    skills showcase with logo displays
     
     Education timeline
 
@@ -23,15 +23,15 @@ Multi-Section Layout:
 
 Modern Styling:
 
-CSS variables for easy theming
+    CSS variables for easy theming
 
-Flexbox/Grid layouts
+    Flexbox/Grid layouts
 
-Box shadows and gradients
+    Box shadows and gradients
 
-Custom form styling
+    Custom form styling
 
-Technologies Used 🛠️
+# Technologies Used 🛠️
 HTML5: Semantic markup structure
 
 CSS3:
