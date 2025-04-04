@@ -11,15 +11,15 @@ A modern responsive portfolio website for Victor Awojobi, showcasing skills, edu
 
 * Multi-Section Layout:
 
- * skills showcase with logo displays
+   * skills showcase with logo displays
     
- * Education timeline
+   * Education timeline
+ 
+  * Project gallery
 
- * Project gallery
-
- * Contact form
-
- * Downloadable CV
+  * Contact form
+ 
+  * Downloadable CV
 
 Modern Styling:
 
