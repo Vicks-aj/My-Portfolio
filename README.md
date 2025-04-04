@@ -66,12 +66,13 @@ A modern responsive portfolio website for Victor Awojobi, showcasing skills, edu
 1. Clone repository:
    
 git clone https://github.com/yourusername/portfolio-website.git
-Navigate to project directory
 
-2. Open index.html in your browser
+2. Navigate to project directory
 
-File Structure
-Copy
+3. Open index.html in your browser
+
+* File Structure
+  
 portfolio/
 ├── index.html
 ├── style.css
@@ -83,51 +84,58 @@ portfolio/
 │   ├── fss-logo.png
 │   └── power-learn-logo.png
 └── README.md
-Customization 🎨
-Essential Updates
-Replace placeholder images in /images
 
-Update personal details in:
+# Customization 🎨
 
-Hero section
+* Essential Updates
+  
+1. Replace placeholder images in /images
 
-Education section
+2. Update personal details in:
 
-Contact details
+  * Hero section
+
+  * Education section
+
+  * Contact details
 
 Replace victor_cv.pdf with actual CV
 
-Styling Modifications
-Update CSS variables in :root:
-
-css
-Copy
+* Styling Modifications
+  
+   * Update CSS variables in :root:
 :root {
   --primary-color: #2c3e50;
   --secondary-color: #3498db;
   --light-gray: #ecf0f1;
   --dark-gray: #333;
 }
-Modify color scheme in dark mode media query
 
-Adjust spacing/sizing using container max-widths
+  * Modify color scheme in dark mode media query
 
-Form Integration
-To make contact form functional:
+  * Adjust spacing/sizing using container max-widths
 
-Add form action URL
+* Form Integration
 
-Implement server-side processing
+* To make contact form functional:
 
-Add reCAPTCHA integration
+  1. Add form action URL
 
-License 📄
+  2. Implement server-side processing
+
+  3.  Add reCAPTCHA integration
+
+# License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact 📧
-Victor Awojobi
-📧 victor.awojobi@example.com
-📱 +234 801 234 5678
+* Contact 📧
+
+  Victor Awojobi
+  
+📧 awojobivic@gmail.com
+
+📱 +234 904 345 0001
+
 📍 Ibadan, Nigeria
 
 
