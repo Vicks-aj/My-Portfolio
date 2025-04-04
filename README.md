@@ -3,23 +3,23 @@
 A modern responsive portfolio website for Victor Awojobi, showcasing skills, education, projects, and professional interests. Features automatic dark mode and smooth interactions.
 
 # Features ✨
-Responsive Design: Works on all screen sizes (mobile-first approach)
+* Responsive Design: Works on all screen sizes (mobile-first approach)
 
-Dark/Light Mode: Automatic theme switching based on system preferences
+* Dark/Light Mode: Automatic theme switching based on system preferences
 
-Interactive Elements: Hover animations and smooth transitions
+* Interactive Elements: Hover animations and smooth transitions
 
-Multi-Section Layout:
+* Multi-Section Layout:
 
-    skills showcase with logo displays
+ * skills showcase with logo displays
     
-    Education timeline
+ * Education timeline
 
-    Project gallery
+ * Project gallery
 
-    Contact form
+ * Contact form
 
-    Downloadable CV
+ * Downloadable CV
 
 Modern Styling:
 
