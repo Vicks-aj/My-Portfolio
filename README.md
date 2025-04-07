@@ -127,7 +127,7 @@ Replace victor_cv.pdf with actual CV
 
 # 🚀 Deployment  
 This project is deployed on **Netlify**. Check out the live demo here:
-https://vicksportfolio.netlify.app/#projects
+https://vicksportfolio.netlify.app/#
 
 # License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
